@@ -1,4 +1,4 @@
-# Sobre o projeto ♟️
+# Sobre o projeto 👷
 O Projeto desenvolvido como Trabalho de Conclusão de Curso, referente ao meu Curso Técnico em Segurança do Trabalho, no SENAI MG.
 
 A projeto foi desenvolvido com base na Segurança do Trabalho, porém, mesclando com a tecnologia e inovação, pontos que gosto muito de abordar em meus projetos.
