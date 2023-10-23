@@ -27,7 +27,6 @@ Segue a descrição da demanda:
 
 ![Diagrama](https://github.com/yan-cruz/TCC-Senai/assets/90066228/2ad2842c-3b9e-4a40-a77b-3527950dfa7a)
 
-
 # Vantagens 📈
 
 ## Em relação à empresa:
@@ -56,7 +55,7 @@ O principal requisito do trabalho, por parte do SENAI, era a relação clara com
 - Um documento .pdf que contenha todas as informações do trabalho; e
 
 - Protótipo do projeto, seja físico ou digital.
-
+##
 Abaixo estão disponíveis na pasta "Projeto" o documento em PDF, descrevendo todos os tópicos do trabalho, e nossa apresentação em slides, além do Vídeo Pitch.
 
 Na pasta "Circuito" está o diagrama eletrônico e o código utilizado na placa Arduino.
