@@ -25,7 +25,7 @@ Segue a descrição da demanda:
 
 # Representação visual 🔍
 
-![Diagrama](https://github.com/yan-cruz/TCC---Senai/assets/90066228/cdae8ed2-4d26-4461-98e4-811050611875)
+![Diagrama](https://github.com/yan-cruz/TCC-Senai/assets/90066228/2ad2842c-3b9e-4a40-a77b-3527950dfa7a)
 
 
 # Vantagens 📈
